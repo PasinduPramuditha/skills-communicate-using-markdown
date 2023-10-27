@@ -5,3 +5,7 @@
 ##### test5
 ###### test6
 ![Image of Yaktocat Test by pasindu](https://octodex.github.com/images/yaktocat.png)
+
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+var myVar = "Hello, world!";
